@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Nikhilesh-H
-- 👀 I’m interested in python
-- 🌱 I’m currently learning class XI - CS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : nikhileshhariganesh@gmail.com
 
 <!---
